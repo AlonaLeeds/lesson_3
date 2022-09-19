@@ -1,0 +1,22 @@
+.text-first>p{
+   color: blueviolet;
+}
+.text-first{
+   color: green;
+}
+.mafia,.text-fourth{
+   color: red;
+}
+#trusted{
+   color: rgb(18, 11, 224);
+}
+a{
+   color: rgb(42, 157, 8);
+}
+
+.text-sixth .story{
+   color: red;
+}
+.text-sixth + p{
+   color: yellowgreen;
+}
